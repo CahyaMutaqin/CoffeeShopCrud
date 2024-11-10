@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Kopi Arabika",
+        "category": "Arabika",
+        "description": "Kopi dengan rasa asam.",
+        "food_complement": true
+    },
+    {
+        "name": "Kopi Robusta",
+        "category": "Robusta",
+        "description": "Kopi dengan rasa pahit.",
+        "food_complement": false
+    }
+]
